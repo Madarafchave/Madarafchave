@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Eng.Software.<br>Studying to be a full stack developer.<br>Always willing to improve and learn new things.
+I'm currently studying Eng.Software.<br>Studying to be a full stack developer, but I love Front-end.I worked as a freelance graphic designer for 2 years<br>Always willing to improve and learn new things.
 
 
 ## 🌐 Socials:
